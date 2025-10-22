@@ -1,10 +1,4 @@
 # Starter pipeline
-- task: AzureCLI@2
-  inputs:
-    azureSubscription: 'Digital_Modernization_Azure_Lab(5c09efad-987e-4392-b86b-e27fddefe153)'
-    scriptType: 'bash'
-    scriptLocation: 'scriptPath'
-    scriptPath: '/tets'
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
